@@ -1,6 +1,6 @@
 # CS499
-https://github.com/jmdonnell423/CS-465/releases/tag/Traveler
-Professional Self-Assessment
+**Professional Self-Assessment**
+
 The completion of my coursework in the Computer Science program and the development of my ePortfolio have been instrumental in refining my technical expertise, solidifying my professional goals, and preparing me to be a competitive candidate in the field. Through hands-on projects, collaboration, and the application of computer science principles, I have built a strong foundation in software development, security, and problem-solving. This ePortfolio serves as a curated representation of my capabilities, demonstrating my ability to develop full-stack applications, engineer secure and efficient software solutions, and apply reverse engineering techniques for software analysis.
 
 Showcasing My Strengths & Professional Growth
@@ -30,7 +30,44 @@ Together, these artifacts illustrate my ability to design, develop, and secure s
 This professional self-assessment serves as an introduction to my portfolio, demonstrating not only my technical capabilities but also my ability to adapt, collaborate, and innovate in the ever-evolving field of computer science.
 
 Links to my projects:
-Traveler Website – A full-stack web application demonstrating my proficiency in frontend and backend development, database management, and secure authentication.
+
+**Traveler Website** – A full-stack web application demonstrating my proficiency in frontend and backend development, database management, and secure authentication.
+
+**Project**
 https://github.com/jmdonnell423/CS-465/releases/tag/Traveler
-Android Application – A mobile application project showcasing my skills in Android development, API integration, and UI/UX design.
-Reverse Engineering Code – A deep dive into software security, highlighting my ability to analyze, debug, and improve compiled code for better security and performance.
+
+**Narrative**
+https://github.com/jmdonnell423/CS499/blob/main/Full%20Stack%20Narative.docx
+
+**Original Files**
+https://github.com/jmdonnell423/CS-465
+
+
+
+**Android Application** – A mobile application project showcasing my skills in Android development, API integration, and UI/UX design.
+
+**Project**
+https://github.com/jmdonnell423/CS499/blob/main/Android%20App%20Artifact%20revised.zip
+
+**Narrative**
+https://github.com/jmdonnell423/CS499/blob/main/Android%20App%20Narrative.docx
+
+**Original Files**
+https://github.com/jmdonnell423/CS360
+
+
+
+**Reverse Engineering Code** – A deep dive into software security, highlighting my ability to analyze, debug, and improve compiled code for better security and performance.
+
+**Project**
+https://github.com/jmdonnell423/CS499/blob/main/Reverse%20Eng%20Artifact%20revised.zip
+
+**Narrative**
+https://github.com/jmdonnell423/CS499/blob/main/Reverse%20Eng%20Narrative.docx
+
+**Original Files**
+
+
+
+
+
